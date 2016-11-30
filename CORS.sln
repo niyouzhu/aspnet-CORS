@@ -25,6 +25,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SampleDestination", "sample
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SampleOrigin", "samples\SampleOrigin\SampleOrigin.xproj", "{99460370-AE5D-4DC9-8DBF-04DF66D6B21D}"
 EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{5898F47F-8D57-4238-B799-C3427EC0CDCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{99460370-AE5D-4DC9-8DBF-04DF66D6B21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99460370-AE5D-4DC9-8DBF-04DF66D6B21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99460370-AE5D-4DC9-8DBF-04DF66D6B21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5898F47F-8D57-4238-B799-C3427EC0CDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5898F47F-8D57-4238-B799-C3427EC0CDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5898F47F-8D57-4238-B799-C3427EC0CDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5898F47F-8D57-4238-B799-C3427EC0CDCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
